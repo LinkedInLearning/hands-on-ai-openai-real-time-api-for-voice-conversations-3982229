@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Hands-On AI: OpenAI Real-Time API for Voice Conversations
+This is the repository for the LinkedIn Learning course `Hands-On AI: OpenAI Real-Time API for Voice Conversations`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
